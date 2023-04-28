@@ -1,0 +1,8 @@
+[package]
+name = "gitag"
+version = "0.0.1"
+author = "asarua <asarua@icloud.com>"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.24"
